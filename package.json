@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "start:all": "ng serve host & ng serve remote",
+    "start:all": "ng serve host & ng serve remote & ng serve home",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
