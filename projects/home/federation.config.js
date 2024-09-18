@@ -6,6 +6,7 @@ module.exports = withNativeFederation({
 
   exposes: {
     './Component': './projects/home/src/app/app.component.ts',
+    './Routes': './projects/home/src/app/app.routes.ts',
   },
 
   shared: {
